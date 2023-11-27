@@ -11,7 +11,6 @@
 * SQL
 * MongoDB
 * PowerBI
-* Tabealu
 * Excel
 * Data Analysis
 * Data Visualization
