@@ -14,6 +14,7 @@
 * Excel
 * Data Analysis
 * Data Visualization
+* Machine Learning
 * Database Management
 * Business Intelligence
 * Presentation skills
